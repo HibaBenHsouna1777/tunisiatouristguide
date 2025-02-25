@@ -1,0 +1,21 @@
+{
+  "cityPage": {
+    "title": "Testour: l'histoire magnifique d'une région exceptionnelle",
+    "overview": "Partir à la découverte de la ville de Testour est un voyage magnifique en soi. Dès qu'on prend la route vers le Gouvernorat de Béja, la verdure peint les terres dans un paysage harmonieux et relaxant. Située au nord-ouest de la Tunisie sur une vaste colline de 70 à 90 mètres de hauteur, Testour révèle son âme andalouse à travers son architecture, sa culture et sa gastronomie.",
+    "geographicalEmplacement": "Testour, Gouvernorat de Béja, Nord-Ouest de la Tunisie",
+    "mapViewUrl": "https://maps.google.com/?q=Testour,Tunisia",
+    "gettingThere": "Accessible en voiture depuis les grandes villes du Nord-Ouest.",
+    "historicalSitesOption": "Filtrer par gouvernorat : Béja, Tunis, etc.",
+    "keyAttractions": ["Grande Mosquée de Testour", "Maison Habiba Msika", "Barrage Sidi Salem"],
+    "restaurants": [
+      "Pizza au feu de bois",
+      "Restaurant Houssem",
+      "Crêperie Ben Massaoud",
+      "Flamenco pizza (au feu de bois)",
+      "Rafaa"
+    ],
+    "findGuideOption": "Trouver un guide local",
+    "userCommentSection": "Section pour avis et commentaires des visiteurs"
+  }
+}
+

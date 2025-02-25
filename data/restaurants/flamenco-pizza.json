@@ -1,0 +1,10 @@
+{
+  "title": "Flamenco pizza (au feu de bois)",
+  "category": "Pizzeria, Restaurant",
+  "openingHours": "Ouvert jusqu'à 00:00",
+  "description": "Pizzeria réputée pour ses pizzas cuites au feu de bois, offrant une touche épicée et vibrante aux recettes traditionnelles.",
+  "images": ["https://example.com/flamenco-pizza1.jpg", "https://example.com/flamenco-pizza2.jpg"],
+  "mapUrl": "https://maps.google.com/?q=Flamenco+pizza+Testour",
+  "backLink": "/cities/testour/restaurants"
+}
+

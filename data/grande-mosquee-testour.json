@@ -1,0 +1,13 @@
+{
+  "title": "Grande Mosquée de Testour",
+  "category": "Monuments historiques, Sites religieux",
+  "localisation": "Sur la Grand-Place, Testour, Gouvernorat de Béja, Tunisie",
+  "dateDuMonument": "avant l'an 1041 de l'Hégire / 1631 J.-C.",
+  "periode": "Ottomane",
+  "commanditaires": "Mohamed Tagharinou, émigré andalou installé en 1018 H / 1609 J.-C.",
+  "description": "La mosquée de Testour est pourvue de deux cours. La grande cour, située au nord, est entourée de portiques à arcs en plein cintre reposant sur des colonnes antiques. Au centre se trouve un cadran solaire portant l'inscription de l'artisan Ahmed al-Harrar (1174 H / 1761 J.-C.). Le minaret, de 22,50 m de hauteur, se compose d'une tour carrée surmontée d'une tour octogonale richement décorée de céramique émaillée, avec un cadran d'horloge dont les chiffres sont inversés, défiant le temps. Ce monument unique témoigne de l'héritage andalou de la ville.",
+  "images": ["https://example.com/testour-mosquee1.jpg", "https://example.com/testour-mosquee2.jpg"],
+  "mapUrl": "https://maps.google.com/?q=Grande+Mosquée+de+Testour",
+  "backLink": "/cities/testour"
+}
+

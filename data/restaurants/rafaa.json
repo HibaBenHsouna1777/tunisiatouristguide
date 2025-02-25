@@ -1,0 +1,10 @@
+{
+  "title": "Rafaa",
+  "category": "Restaurant",
+  "openingHours": "Fermé jusqu'à demain",
+  "description": "Restaurant offrant un éventail de plats locaux et internationaux dans une atmosphère intimiste. (Note: actuellement fermé.)",
+  "images": ["https://example.com/rafaa1.jpg", "https://example.com/rafaa2.jpg"],
+  "mapUrl": "https://maps.google.com/?q=Rafaa+Testour",
+  "backLink": "/cities/testour/restaurants"
+}
+

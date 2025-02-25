@@ -1,0 +1,11 @@
+{
+  "title": "Restaurant Houssem",
+  "category": "Restaurant",
+  "rating": "10 notes",
+  "openingHours": "Ouvert jusqu'à 04:00",
+  "description": "Restaurant populaire proposant une cuisine tunisienne authentique dans une ambiance conviviale.",
+  "images": ["https://example.com/restaurant-houssem1.jpg", "https://example.com/restaurant-houssem2.jpg"],
+  "mapUrl": "https://maps.google.com/?q=Restaurant+Houssem+Testour",
+  "backLink": "/cities/testour/restaurants"
+}
+

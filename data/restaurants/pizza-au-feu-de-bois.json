@@ -1,0 +1,11 @@
+{
+  "title": "Pizza au feu de bois",
+  "category": "Pizzeria, Restaurant",
+  "rating": "22 notes",
+  "openingHours": "Ouvert jusqu'à 00:00",
+  "description": "Authentique pizzeria offrant des pizzas cuites au feu de bois, alliant tradition et modernité dans un cadre chaleureux.",
+  "images": ["https://example.com/pizza-au-feu-de-bois1.jpg", "https://example.com/pizza-au-feu-de-bois2.jpg"],
+  "mapUrl": "https://maps.google.com/?q=Pizza+au+feu+de+bois+Testour",
+  "backLink": "/cities/testour/restaurants"
+}
+
