@@ -464,7 +464,7 @@ export const tunisiaData = {
           {
             name: "Chebba",
             description: "Tranquil fishing village with beautiful beaches",
-            image: "/images/chebba.jpg",
+            image: "C:/Users/MSI/Downloads/Mahdia/chebba/Chebba 🇹🇳 (1).jpg",
             coordinates: { lat: 35.2361, lng: 11.1144 },
             type: "Coastal",
             details: {
