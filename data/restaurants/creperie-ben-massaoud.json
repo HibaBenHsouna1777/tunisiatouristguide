@@ -3,7 +3,7 @@
   "category": "Restaurant, Pizzeria",
   "openingHours": "Non spécifié",
   "description": "Crêperie proposant un savoureux mélange de crêpes salées et sucrées, fusionnant les influences tunisiennes et françaises.",
-  "images": ["https://example.com/creperie-ben-massaoud1.jpg", "https://example.com/creperie-ben-massaoud2.jpg"],
+  "images": ["https://example.com/creperie-ben-massaoud1.jpg"],
   "mapUrl": "https://maps.google.com/?q=Crêperie+Ben+Massaoud+Testour",
   "backLink": "/cities/testour/restaurants"
 }
